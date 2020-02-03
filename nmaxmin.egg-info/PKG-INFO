@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: nmaxmin
+Version: 1.0.5
+Summary: A package to find nth max and min in a given list
+Home-page: https://github.com/amrs-tech/nmaxmin
+Author: Ahamed Musthafa
+Author-email: amrs.tech@gmail.com
+License: UNKNOWN
+Description: # nmaxmin
+        
+        A simple package to find the nth max and nth min in a list.
+        
+        ## Installation
+        
+        ```
+        pip install nmaxmin
+        ```
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.4
+Description-Content-Type: text/markdown

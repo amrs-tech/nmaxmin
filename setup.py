@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="nmaxmin",
-    version="1.0.4",
+    version="1.0.5",
     author="Ahamed Musthafa",
     author_email="amrs.tech@gmail.com",
     description="A package to find nth max and min in a given list",
