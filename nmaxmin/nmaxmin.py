@@ -1,11 +1,14 @@
 def check_error(input_list, n):
+	"""
+	Check type errors in the input
+	"""
 	for i in input_list:
 		if type(i) is str:
 			raise Exception("List items must be int or float values")
 	try:
 		n = int(n)
 	except:
-		raise Exception("n must be int or float value")
+		raise Exception("n must be integer")
 	if n < 1 or n > len(input_list):
 		raise Exception("n must be between 1 and length of list")
 
@@ -29,7 +32,6 @@ def maxn(input_list, n):
 	return input_list[n-1]
 
 
-
 def minn(input_list, n):
 	"""
 	To find the nth min number in the provided list
@@ -48,4 +50,3 @@ def minn(input_list, n):
 				input_list[i] = input_list[j]
 				input_list[j] = temp
 	return input_list[n-1]
-
