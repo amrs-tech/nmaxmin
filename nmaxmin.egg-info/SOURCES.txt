@@ -1,6 +1,0 @@
-README.md
-setup.py
-nmaxmin.egg-info/PKG-INFO
-nmaxmin.egg-info/SOURCES.txt
-nmaxmin.egg-info/dependency_links.txt
-nmaxmin.egg-info/top_level.txt
