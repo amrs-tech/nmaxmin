@@ -4,6 +4,7 @@
 ![PyPI](https://img.shields.io/pypi/v/nmaxmin)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/nmaxmin)](https://pypi.org/project/nmaxmin/)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-green.svg)](https://img.shields.io/badge/contributions-welcome-green.svg)
+[![Build Status](https://travis-ci.org/amrs-tech/nmaxmin.svg?branch=master)](https://travis-ci.org/amrs-tech/nmaxmin)
 
 A simple package to find the nth max and nth min in a list.
 
